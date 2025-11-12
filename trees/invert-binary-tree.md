@@ -1,3 +1,7 @@
+Name: Peter Bezgoubov
+Date: 12/11/2025
+Problem: Invert Binary Tree
+
 /**
 * Definition for a binary tree node.
 * struct TreeNode {
